@@ -1996,7 +1996,7 @@ bool Hardping::findDrellYanPairs(int i_pyEv, hardpingParticle* particleA){
 				vecMomentumZ0.py(py_old);
 				vecMomentumZ0.pz(pz_old);
 				vecMomentumZ0.e(pe_old);
-
+				tempHardpingParticle->id(23);
 				tempHardpingParticle->p(vecMomentumZ0);
 				tempHardpingParticle->setPhiHardping(particleA->getPhiHardping());
 				tempHardpingParticle->setThetaHardping(particleA->getThetaHardping());
