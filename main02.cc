@@ -8,8 +8,8 @@
 
 #include "Pythia8/Pythia.h"
 using namespace Pythia8; 
-#define protonMass  0.938272046212121
-#define neutronMass 0.939565379212121
+#define protonMass  0.93827204621
+#define neutronMass 0.93956537921
 int main() {
 
   Pythia* pythia;
