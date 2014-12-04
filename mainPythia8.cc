@@ -21,7 +21,7 @@ int main() {
   int motherLine1 ;
   int  idDaughter1, idDaughter2,lineDaughter1, lineDaughter12, lineDaughter2,lineDaughter22  , motherLine2;
 
-  int numOfEvents =10000000;
+  int numOfEvents =100;
 
   Particle* particleA;
   Particle* particleB;
