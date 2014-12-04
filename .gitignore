@@ -1,0 +1,11 @@
+*.[oa]
+*~
+*.txt
+Debug/
+*.gz
+lhapdfdummy/
+p_n_800GeV_DY_10^6
+p_p_800GeV_DY_10^6
+
+
+
