@@ -38,7 +38,7 @@ int main() {
   particleC = new Particle();
   particleA->p(vecA);
   particleA->id(-13);
-  particleB->id(2212);
+  particleB->id(2112);
   int _verbose = 0;
   bool cutMass = true;
   pxA = particleA->px();//getVector()->px();
