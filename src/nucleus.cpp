@@ -1013,7 +1013,7 @@ char ch;
 	particleA = new hardpingParticle();//(vecA,2212);
 	particleA->p(vecA);
 	particleA->vProd(vecCoordinate);
-	particleA->id(2212);
+	particleA->id(2112);
 	_initialParticle = *particleA;
 	if(_verbose)cout<<"_maxZCoordinate = "<<_maxZCoordinate<<endl;
 //todo add for _initialParticle idB
