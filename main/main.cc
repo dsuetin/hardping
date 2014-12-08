@@ -50,8 +50,8 @@ Aproj = 1;
 Zproj = 1;
 
 
-Atarg = 9;
-Ztarg = 4;
+Atarg = 184;
+Ztarg = 74;
 
 _randomFile.open("/home/dsuetin/workspace/Pythia8180/Debug/randomNumbersFile.txt");
 //W_File.open("/home/dsuetin/workspace/Hardping_201401/Debug/02.06.14/WnCol_fort.txt");
